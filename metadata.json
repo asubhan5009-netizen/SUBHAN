@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Beta.AI",
+  "description": "A multi-modal AI platform for academic study assistance, high-quality image generation/editing, and AI video creation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
